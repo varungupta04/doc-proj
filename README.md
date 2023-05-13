@@ -1,5 +1,8 @@
+
+Sure, here is an example of a README for a GitHub project that is a doctor web dev app that is running on MERN stack:
+
 Doctor Web Dev App
-This is a web application that helps doctors manage their patients and their practice. It is built on the MERN stack (MongoDB, Express, React, and Node.js).
+This is a web application that is built using the MERN stack (MongoDB, Express, React, and Node.js). The application is designed to help doctors manage their patients and their practice.
 
 Features
 Patient management: The application allows doctors to view and edit patient records, schedule appointments, and send prescriptions.
