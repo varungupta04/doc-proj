@@ -1,6 +1,6 @@
 Doctor Web Dev App
 This is a web application that helps doctors manage their patients and their practice. It is built on the MERN stack (MongoDB, Express, React, and Node.js).
-
+https://doctorapp-xk2x.onrender.com/profile
 Features
 Patient management: The application allows doctors to view and edit patient records, schedule appointments, and send prescriptions.
 Practice management: The application allows doctors to track their appointments, manage their finances, and communicate with their patients.
@@ -54,9 +54,6 @@ Doctor Web Dev App
 This is a web application that helps doctors manage their patients and their practice. It is built on the MERN stack (MongoDB, Express, React, and Node.js).
 
 Features
-Patient management: The application allows doctors to view and edit patient records, schedule appointments, and send prescriptions.
-Practice management: The application allows doctors to track their appointments, manage their finances, and communicate with their patients.
-Research: The application allows doctors to access and share medical research.
 Getting Started
 To get started with this project, you will need to:
 
